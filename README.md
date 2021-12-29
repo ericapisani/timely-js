@@ -19,4 +19,5 @@ node ./index.js -t <hour of time to convert>
 ```
 
 Example of the last command: `node ./index.js -t 12`
-Example output: Toronto: 12 // Chicago: 11 // SF: 9
+
+Example output: `Toronto: 12 // Chicago: 11 // SF: 9`
